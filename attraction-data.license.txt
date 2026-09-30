@@ -1,0 +1,12 @@
+TravelAtlas attraction data license
+
+Source repository:
+https://github.com/tuansuwu/china-5a-scenic-areas
+
+Source license:
+Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The generated attraction-data.json is an adaptation of data from
+tuansuwu/china-5a-scenic-areas and remains available under CC BY-SA 4.0.
+Attribution: tuansuwu/china-5a-scenic-areas contributors.

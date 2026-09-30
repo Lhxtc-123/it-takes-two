@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">TravelAtlas</title>
+  <rect width="512" height="512" fill="#152328"/>
+  <path d="M256 83c-76 0-137 61-137 137 0 102 137 209 137 209s137-107 137-209c0-76-61-137-137-137Z" fill="#f9fbf8"/>
+  <circle cx="256" cy="220" r="49" fill="#d96c47"/>
+  <path d="M100 402c47-34 95-51 144-51 55 0 107 21 168 64" fill="none" stroke="#2f8a76" stroke-width="18" stroke-linecap="round"/>
+</svg>

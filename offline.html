@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#152328" />
+    <title>it takes two 暂时离线</title>
+    <style>
+      :root {
+        color: #152328;
+        background: #eaf0ec;
+        font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        display: grid;
+        min-height: 100svh;
+        margin: 0;
+        padding: 24px;
+        place-items: center;
+      }
+
+      main {
+        width: min(100%, 390px);
+        padding: 24px;
+        background: #f9fbf8;
+        border: 1px solid #c5d0ca;
+        border-radius: 8px;
+        box-shadow: 6px 6px 0 rgb(21 35 40 / 7%);
+      }
+
+      span {
+        display: grid;
+        width: 42px;
+        height: 42px;
+        color: #ffffff;
+        font-size: 21px;
+        font-weight: 800;
+        background: #152328;
+        border-radius: 8px;
+        place-items: center;
+      }
+
+      h1 {
+        margin: 18px 0 8px;
+        font-size: 24px;
+      }
+
+      p {
+        margin: 0;
+        color: #526267;
+        line-height: 1.65;
+      }
+
+      button {
+        min-height: 42px;
+        margin-top: 20px;
+        padding: 0 14px;
+        color: #ffffff;
+        font: inherit;
+        font-weight: 700;
+        background: #2f8a76;
+        border: 1px solid #2f8a76;
+        border-radius: 7px;
+        cursor: pointer;
+      }
+
+      button:focus-visible {
+        outline: 2px solid #d96c47;
+        outline-offset: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <span aria-hidden="true">T</span>
+      <h1>网络暂时不可用</h1>
+      <p>已保存的打卡和路线仍保留在本机。恢复网络后重新打开地图即可继续同步。</p>
+      <button type="button" onclick="window.location.reload()">重新连接</button>
+    </main>
+  </body>
+</html>

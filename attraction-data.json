@@ -1,0 +1,1328 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-29T15:41:49.645Z",
+  "source": {
+    "name": "china-5a-scenic-areas",
+    "repository": "https://github.com/tuansuwu/china-5a-scenic-areas",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "数据集只包含全国 5A 景区；后续阶段可继续补充非 5A 景点。"
+  },
+  "cities": [
+    {
+      "name": "北京",
+      "fullName": "北京市",
+      "adcode": "110000",
+      "attractions": [
+        {
+          "id": "110000-badaling-and-mutianyu-great-wall-beijing-ba-da-ling-chang-cheng",
+          "name": "八达岭长城（八达岭-慕田峪长城）",
+          "coordinates": [
+            116.006944,
+            40.354167
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "badaling-and-mutianyu-great-wall-beijing-ba-da-ling-chang-cheng",
+          "profileUrl": "https://loreroutes.com/destinations/5a/badaling-and-mutianyu-great-wall-beijing-ba-da-ling-chang-cheng/",
+          "guideUrl": "https://loreroutes.com/destinations/badaling-mutianyu-great-wall/"
+        },
+        {
+          "id": "110000-badaling-and-mutianyu-great-wall-beijing-mu-tian-yu-chang-cheng-lv-you",
+          "name": "慕田峪长城旅游景区（八达岭-慕田峪长城）",
+          "coordinates": [
+            116.560575,
+            40.434515
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "badaling-and-mutianyu-great-wall-beijing-mu-tian-yu-chang-cheng-lv-you",
+          "profileUrl": "https://loreroutes.com/destinations/5a/badaling-and-mutianyu-great-wall-beijing-mu-tian-yu-chang-cheng-lv-you/",
+          "guideUrl": "https://loreroutes.com/destinations/badaling-mutianyu-great-wall/"
+        },
+        {
+          "id": "110000-beijing-tongzhou-grand-canal-cultural-tourism-scenic-area",
+          "name": "北京（通州）大运河文化旅游景区",
+          "coordinates": [
+            116.740689,
+            39.869599
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "beijing-tongzhou-grand-canal-cultural-tourism-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/beijing-tongzhou-grand-canal-cultural-tourism-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/beijing-grand-canal/"
+        },
+        {
+          "id": "110000-forbidden-city-palace-museum",
+          "name": "故宫博物院",
+          "coordinates": [
+            116.390833,
+            39.915556
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "forbidden-city-palace-museum",
+          "profileUrl": "https://loreroutes.com/destinations/5a/forbidden-city-palace-museum/",
+          "guideUrl": "https://loreroutes.com/destinations/forbidden-city/"
+        },
+        {
+          "id": "110000-ming-tombs-scenic-area",
+          "name": "明十三陵景区",
+          "coordinates": [
+            116.231944,
+            40.303333
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "ming-tombs-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/ming-tombs-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/ming-tombs/"
+        },
+        {
+          "id": "110000-old-summer-palace",
+          "name": "圆明园景区",
+          "coordinates": [
+            116.2925,
+            40.007222
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "old-summer-palace",
+          "profileUrl": "https://loreroutes.com/destinations/5a/old-summer-palace/",
+          "guideUrl": "https://loreroutes.com/destinations/old-summer-palace/"
+        },
+        {
+          "id": "110000-olympic-green",
+          "name": "奥林匹克公园",
+          "coordinates": [
+            116.38683,
+            40
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "olympic-green",
+          "profileUrl": "https://loreroutes.com/destinations/5a/olympic-green/",
+          "guideUrl": "https://loreroutes.com/destinations/beijing-olympic-green/"
+        },
+        {
+          "id": "110000-prince-gongs-mansion",
+          "name": "恭王府景区",
+          "coordinates": [
+            116.379861,
+            39.936639
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "prince-gongs-mansion",
+          "profileUrl": "https://loreroutes.com/destinations/5a/prince-gongs-mansion/",
+          "guideUrl": "https://loreroutes.com/destinations/prince-gongs-mansion/"
+        }
+      ]
+    },
+    {
+      "name": "上海",
+      "fullName": "上海市",
+      "adcode": "310000",
+      "attractions": [
+        {
+          "id": "310000-oriental-pearl-tower",
+          "name": "上海东方明珠广播电视塔",
+          "coordinates": [
+            121.49526,
+            31.2419
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "oriental-pearl-tower",
+          "profileUrl": "https://loreroutes.com/destinations/5a/oriental-pearl-tower/",
+          "guideUrl": "https://loreroutes.com/destinations/oriental-pearl-tower/"
+        },
+        {
+          "id": "310000-shang-hai-ye-sheng-dong-wu-garden",
+          "name": "上海野生动物园",
+          "coordinates": [
+            121.724333,
+            31.05475
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "shang-hai-ye-sheng-dong-wu-garden",
+          "profileUrl": "https://loreroutes.com/destinations/5a/shang-hai-ye-sheng-dong-wu-garden/",
+          "guideUrl": "https://loreroutes.com/destinations/shanghai-wild-animal-park/"
+        },
+        {
+          "id": "310000-shanghai-science-and-technology-museum",
+          "name": "上海科技馆",
+          "coordinates": [
+            121.537233,
+            31.220147
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "shanghai-science-and-technology-museum",
+          "profileUrl": "https://loreroutes.com/destinations/5a/shanghai-science-and-technology-museum/",
+          "guideUrl": "https://loreroutes.com/destinations/shanghai-science-museum/"
+        },
+        {
+          "id": "310000-site-of-the-first-national-congress-of-the-chinese-communist-party-shanghai-er-da-ji-nian-guan",
+          "name": "二大纪念馆（中国共产党一大·二大·四大纪念馆景区）",
+          "coordinates": [
+            121.4707,
+            31.222
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "site-of-the-first-national-congress-of-the-chinese-communist-party-shanghai-er-da-ji-nian-guan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/site-of-the-first-national-congress-of-the-chinese-communist-party-shanghai-er-da-ji-nian-guan/",
+          "guideUrl": null
+        },
+        {
+          "id": "310000-xi-sha-ming-zhu-lake-scenic-area",
+          "name": "西沙明珠湖景区",
+          "coordinates": [
+            121.253012,
+            31.740036
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "xi-sha-ming-zhu-lake-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/xi-sha-ming-zhu-lake-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/mingzhu-lake-chongming/"
+        }
+      ]
+    },
+    {
+      "name": "广州",
+      "fullName": "广州市",
+      "adcode": "440100",
+      "attractions": [
+        {
+          "id": "440100-baiyun-mountain-guangdong",
+          "name": "白云山风景区",
+          "coordinates": [
+            113.29817,
+            23.180091
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "baiyun-mountain-guangdong",
+          "profileUrl": "https://loreroutes.com/destinations/5a/baiyun-mountain-guangdong/",
+          "guideUrl": null
+        },
+        {
+          "id": "440100-chang-long-tourist-resort",
+          "name": "长隆旅游度假区",
+          "coordinates": [
+            113.321218,
+            23.003069
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "chang-long-tourist-resort",
+          "profileUrl": "https://loreroutes.com/destinations/5a/chang-long-tourist-resort/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "深圳",
+      "fullName": "深圳市",
+      "adcode": "440300",
+      "attractions": [
+        {
+          "id": "440300-mission-hills-resort",
+          "name": "观澜湖休闲旅游区",
+          "coordinates": [
+            114.071178,
+            22.740126
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "mission-hills-resort",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mission-hills-resort/",
+          "guideUrl": null
+        },
+        {
+          "id": "440300-overseas-chinese-town",
+          "name": "深圳华侨城旅游度假区",
+          "coordinates": [
+            113.97868,
+            22.53684
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "overseas-chinese-town",
+          "profileUrl": "https://loreroutes.com/destinations/5a/overseas-chinese-town/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "成都",
+      "fullName": "成都市",
+      "adcode": "510100",
+      "attractions": [
+        {
+          "id": "510100-an-ren-ancient-town-scenic-area",
+          "name": "安仁古镇景区",
+          "coordinates": [
+            103.61428,
+            30.51691
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "an-ren-ancient-town-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/an-ren-ancient-town-scenic-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "510100-mount-qingcheng",
+          "name": "青城山—都江堰旅游景区",
+          "coordinates": [
+            103.515556,
+            30.973333
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "mount-qingcheng",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mount-qingcheng/",
+          "guideUrl": null
+        },
+        {
+          "id": "510100-tian-tai-mountain-scenic-area",
+          "name": "天台山景区",
+          "coordinates": [
+            103.113544,
+            30.2816
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "tian-tai-mountain-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/tian-tai-mountain-scenic-area/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "重庆",
+      "fullName": "重庆市",
+      "adcode": "500000",
+      "attractions": [
+        {
+          "id": "500000-a-yi-river-scenic-area",
+          "name": "阿依河景区",
+          "coordinates": [
+            108.114037,
+            29.155562
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "a-yi-river-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/a-yi-river-scenic-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "500000-baidicheng-and-qutang-gorge-scenic-area",
+          "name": "白帝城·瞿塘峡景区",
+          "coordinates": [
+            109.570541,
+            31.04349
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "baidicheng-and-qutang-gorge-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/baidicheng-and-qutang-gorge-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/qutang-gorge/"
+        },
+        {
+          "id": "500000-chong-qing-xiao-san-xia-xiao-xiao-san-gorge",
+          "name": "重庆小三峡-小小三峡",
+          "coordinates": [
+            109.872777,
+            31.232448
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "chong-qing-xiao-san-xia-xiao-xiao-san-gorge",
+          "profileUrl": "https://loreroutes.com/destinations/5a/chong-qing-xiao-san-xia-xiao-xiao-san-gorge/",
+          "guideUrl": "https://loreroutes.com/destinations/chongqing-lesser-three-gorges/"
+        },
+        {
+          "id": "500000-dazu-rock-carvings",
+          "name": "重庆大足石刻景区",
+          "coordinates": [
+            105.7,
+            29.7
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "dazu-rock-carvings",
+          "profileUrl": "https://loreroutes.com/destinations/5a/dazu-rock-carvings/",
+          "guideUrl": null
+        },
+        {
+          "id": "500000-hei-shan-valley-scenic-area",
+          "name": "黑山谷景区",
+          "coordinates": [
+            106.999321,
+            28.888442
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "hei-shan-valley-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/hei-shan-valley-scenic-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "500000-jiangjin-simian-mountain-scenic-area",
+          "name": "江津四面山景区",
+          "coordinates": [
+            106.405,
+            28.6535
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "jiangjin-simian-mountain-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/jiangjin-simian-mountain-scenic-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "500000-mount-jinfo",
+          "name": "金佛山-神龙峡景区",
+          "coordinates": [
+            107.3,
+            29.066667
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "mount-jinfo",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mount-jinfo/",
+          "guideUrl": null
+        },
+        {
+          "id": "500000-wuling-mountains",
+          "name": "武陵山大裂谷景区",
+          "coordinates": [
+            108.742778,
+            27.9025
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "wuling-mountains",
+          "profileUrl": "https://loreroutes.com/destinations/5a/wuling-mountains/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "杭州",
+      "fullName": "杭州市",
+      "adcode": "330100",
+      "attractions": [
+        {
+          "id": "330100-qiandao-lake",
+          "name": "千岛湖风景区",
+          "coordinates": [
+            119.213611,
+            29.483611
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "qiandao-lake",
+          "profileUrl": "https://loreroutes.com/destinations/5a/qiandao-lake/",
+          "guideUrl": "https://loreroutes.com/destinations/qiandao-lake/"
+        },
+        {
+          "id": "330100-west-lake",
+          "name": "西湖风景名胜区",
+          "coordinates": [
+            120.141667,
+            30.245833
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "west-lake",
+          "profileUrl": "https://loreroutes.com/destinations/5a/west-lake/",
+          "guideUrl": "https://loreroutes.com/destinations/west-lake/"
+        },
+        {
+          "id": "330100-xixi-national-wetland-park",
+          "name": "西溪湿地旅游区",
+          "coordinates": [
+            120.0625,
+            30.270556
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "xixi-national-wetland-park",
+          "profileUrl": "https://loreroutes.com/destinations/5a/xixi-national-wetland-park/",
+          "guideUrl": "https://loreroutes.com/destinations/xixi-wetland/"
+        }
+      ]
+    },
+    {
+      "name": "西安",
+      "fullName": "西安市",
+      "adcode": "610100",
+      "attractions": [
+        {
+          "id": "610100-daming-palace",
+          "name": "大明宫旅游景区",
+          "coordinates": [
+            108.95946,
+            34.28917
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "daming-palace",
+          "profileUrl": "https://loreroutes.com/destinations/5a/daming-palace/",
+          "guideUrl": "https://loreroutes.com/destinations/daming-palace/"
+        },
+        {
+          "id": "610100-giant-wild-goose-pagoda",
+          "name": "大雁塔·大唐芙蓉园景区",
+          "coordinates": [
+            108.959336,
+            34.219769
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "giant-wild-goose-pagoda",
+          "profileUrl": "https://loreroutes.com/destinations/5a/giant-wild-goose-pagoda/",
+          "guideUrl": "https://loreroutes.com/destinations/giant-wild-goose-pagoda/"
+        },
+        {
+          "id": "610100-huaqing-pool-scenic-area",
+          "name": "华清池景区",
+          "coordinates": [
+            109.212991,
+            34.361758
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "huaqing-pool-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/huaqing-pool-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/huaqing-pool/"
+        },
+        {
+          "id": "610100-mausoleum-of-qin-shi-huang",
+          "name": "秦始皇兵马俑博物馆",
+          "coordinates": [
+            109.253611,
+            34.381944
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "mausoleum-of-qin-shi-huang",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mausoleum-of-qin-shi-huang/",
+          "guideUrl": "https://loreroutes.com/destinations/mausoleum-of-qin-shi-huang/"
+        },
+        {
+          "id": "610100-xian-city-wall-and-beilin-historical-and-cultural-scenic-area",
+          "name": "城墙·碑林历史文化景区",
+          "coordinates": [
+            108.9423,
+            34.2534
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "xian-city-wall-and-beilin-historical-and-cultural-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/xian-city-wall-and-beilin-historical-and-cultural-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/xian-city-wall-and-beilin/"
+        }
+      ]
+    },
+    {
+      "name": "南京",
+      "fullName": "南京市",
+      "adcode": "320100",
+      "attractions": [
+        {
+          "id": "320100-confucius-temple-qinhuai-scenic-area",
+          "name": "夫子庙—秦淮风光带景区",
+          "coordinates": [
+            118.783786,
+            32.022578
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "confucius-temple-qinhuai-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/confucius-temple-qinhuai-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/confucius-temple-nanjing/"
+        },
+        {
+          "id": "320100-purple-mountain-nanjing",
+          "name": "钟山风景名胜区-中山陵园风景区",
+          "coordinates": [
+            118.8,
+            32.083333
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "purple-mountain-nanjing",
+          "profileUrl": "https://loreroutes.com/destinations/5a/purple-mountain-nanjing/",
+          "guideUrl": "https://loreroutes.com/destinations/sun-yat-sen-mausoleum/"
+        }
+      ]
+    },
+    {
+      "name": "苏州",
+      "fullName": "苏州市",
+      "adcode": "320500",
+      "attractions": [
+        {
+          "id": "320500-classical-gardens-of-suzhou",
+          "name": "苏州园林（拙政园、虎丘山、留园）",
+          "coordinates": [
+            120.45,
+            31.316667
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "classical-gardens-of-suzhou",
+          "profileUrl": "https://loreroutes.com/destinations/5a/classical-gardens-of-suzhou/",
+          "guideUrl": "https://loreroutes.com/destinations/humble-administrators-garden/"
+        },
+        {
+          "id": "320500-jinji-lake",
+          "name": "金鸡湖景区",
+          "coordinates": [
+            120.691667,
+            31.313611
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "jinji-lake",
+          "profileUrl": "https://loreroutes.com/destinations/5a/jinji-lake/",
+          "guideUrl": "https://loreroutes.com/destinations/jinji-lake/"
+        },
+        {
+          "id": "320500-shajiabang-yushan-and-shanghu-tourist-area",
+          "name": "沙家浜·虞山尚湖旅游区",
+          "coordinates": [
+            120.683572,
+            31.651014
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "shajiabang-yushan-and-shanghu-tourist-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/shajiabang-yushan-and-shanghu-tourist-area/",
+          "guideUrl": "https://loreroutes.com/destinations/shajiabang-yushan-shanghu/"
+        },
+        {
+          "id": "320500-wu-zhong-tai-lake-tourist-area",
+          "name": "吴中太湖旅游区",
+          "coordinates": [
+            120.410493,
+            31.215205
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "wu-zhong-tai-lake-tourist-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/wu-zhong-tai-lake-tourist-area/",
+          "guideUrl": "https://loreroutes.com/destinations/wuzhong-taihu/"
+        },
+        {
+          "id": "320500-wujiang-tongli-ancient-town-scenic-area",
+          "name": "吴江同里古镇风景区",
+          "coordinates": [
+            120.71813,
+            31.15111
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "wujiang-tongli-ancient-town-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/wujiang-tongli-ancient-town-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/tongli/"
+        },
+        {
+          "id": "320500-zhouzhuang-ancient-town-scenic-area",
+          "name": "周庄古镇景区",
+          "coordinates": [
+            120.83553,
+            31.13096
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "zhouzhuang-ancient-town-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/zhouzhuang-ancient-town-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/zhouzhuang/"
+        }
+      ]
+    },
+    {
+      "name": "武汉",
+      "fullName": "武汉市",
+      "adcode": "420100",
+      "attractions": [
+        {
+          "id": "420100-east-lake-wuhan",
+          "name": "东湖景区",
+          "coordinates": [
+            114.383333,
+            30.566667
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "east-lake-wuhan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/east-lake-wuhan/",
+          "guideUrl": null
+        },
+        {
+          "id": "420100-huang-bei-mu-lan-cultural-ecotourism-area",
+          "name": "黄陂木兰文化生态旅游区",
+          "coordinates": [
+            114.387438,
+            31.096298
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "huang-bei-mu-lan-cultural-ecotourism-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/huang-bei-mu-lan-cultural-ecotourism-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "420100-yellow-crane-tower",
+          "name": "黄鹤楼公园",
+          "coordinates": [
+            114.296944,
+            30.546944
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "yellow-crane-tower",
+          "profileUrl": "https://loreroutes.com/destinations/5a/yellow-crane-tower/",
+          "guideUrl": "https://loreroutes.com/destinations/yellow-crane-tower/"
+        }
+      ]
+    },
+    {
+      "name": "长沙",
+      "fullName": "长沙市",
+      "adcode": "430100",
+      "attractions": [
+        {
+          "id": "430100-huaminglou-scenic-area",
+          "name": "花明楼景区",
+          "coordinates": [
+            112.631,
+            28.0445
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "huaminglou-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/huaminglou-scenic-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "430100-yuelu-mountain",
+          "name": "岳麓山—橘子洲旅游区",
+          "coordinates": [
+            112.943373,
+            28.194667
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "yuelu-mountain",
+          "profileUrl": "https://loreroutes.com/destinations/5a/yuelu-mountain/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "天津",
+      "fullName": "天津市",
+      "adcode": "120000",
+      "attractions": [
+        {
+          "id": "120000-mount-pan",
+          "name": "天津盘山风景名胜区",
+          "coordinates": [
+            117.266389,
+            40.0825
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "mount-pan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mount-pan/",
+          "guideUrl": "https://loreroutes.com/destinations/mount-pan/"
+        },
+        {
+          "id": "120000-tianjin-ancient-culture-street-tourist-area-jinmen-guli",
+          "name": "天津古文化街旅游区（津门故里）",
+          "coordinates": [
+            117.18665,
+            39.14152
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "tianjin-ancient-culture-street-tourist-area-jinmen-guli",
+          "profileUrl": "https://loreroutes.com/destinations/5a/tianjin-ancient-culture-street-tourist-area-jinmen-guli/",
+          "guideUrl": "https://loreroutes.com/destinations/tianjin-ancient-culture-street/"
+        }
+      ]
+    },
+    {
+      "name": "青岛",
+      "fullName": "青岛市",
+      "adcode": "370200",
+      "attractions": [
+        {
+          "id": "370200-mount-lao",
+          "name": "崂山景区",
+          "coordinates": [
+            120.626389,
+            36.175
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "mount-lao",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mount-lao/",
+          "guideUrl": "https://loreroutes.com/destinations/mount-lao/"
+        },
+        {
+          "id": "370200-qingdao-international-sailing-centre",
+          "name": "奥帆海洋文化旅游区",
+          "coordinates": [
+            120.39048,
+            36.060208
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "qingdao-international-sailing-centre",
+          "profileUrl": "https://loreroutes.com/destinations/5a/qingdao-international-sailing-centre/",
+          "guideUrl": "https://loreroutes.com/destinations/qingdao-olympic-sailing-centre/"
+        }
+      ]
+    },
+    {
+      "name": "厦门",
+      "fullName": "厦门市",
+      "adcode": "350200",
+      "attractions": [
+        {
+          "id": "350200-gulangyu-scenic-area",
+          "name": "鼓浪屿风景名胜区",
+          "coordinates": [
+            118.061111,
+            24.447222
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "gulangyu-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/gulangyu-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/gulangyu/"
+        },
+        {
+          "id": "350200-xiamen-botanical-gardens",
+          "name": "厦门园林植物园景区",
+          "coordinates": [
+            118.091667,
+            24.455
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "xiamen-botanical-gardens",
+          "profileUrl": "https://loreroutes.com/destinations/5a/xiamen-botanical-gardens/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "昆明",
+      "fullName": "昆明市",
+      "adcode": "530100",
+      "attractions": [
+        {
+          "id": "530100-stone-forest",
+          "name": "石林风景区",
+          "coordinates": [
+            103.325,
+            24.8178
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "stone-forest",
+          "profileUrl": "https://loreroutes.com/destinations/5a/stone-forest/",
+          "guideUrl": "https://loreroutes.com/destinations/stone-forest/"
+        },
+        {
+          "id": "530100-world-horti-expo-garden",
+          "name": "昆明世博园景区",
+          "coordinates": [
+            102.7653,
+            25.0804
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "world-horti-expo-garden",
+          "profileUrl": "https://loreroutes.com/destinations/5a/world-horti-expo-garden/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "桂林",
+      "fullName": "桂林市",
+      "adcode": "450300",
+      "attractions": [
+        {
+          "id": "450300-elephant-trunk-hill",
+          "name": "象山（两江四湖·象山景区）",
+          "coordinates": [
+            110.291389,
+            25.269722
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "elephant-trunk-hill",
+          "profileUrl": "https://loreroutes.com/destinations/5a/elephant-trunk-hill/",
+          "guideUrl": null
+        },
+        {
+          "id": "450300-jingjiang-princes-palace",
+          "name": "独秀峰－王城景区",
+          "coordinates": [
+            110.295,
+            25.286111
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "jingjiang-princes-palace",
+          "profileUrl": "https://loreroutes.com/destinations/5a/jingjiang-princes-palace/",
+          "guideUrl": null
+        },
+        {
+          "id": "450300-li-river",
+          "name": "漓江景区",
+          "coordinates": [
+            110.464611,
+            25.560972
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "li-river",
+          "profileUrl": "https://loreroutes.com/destinations/5a/li-river/",
+          "guideUrl": "https://loreroutes.com/destinations/li-river/"
+        }
+      ]
+    },
+    {
+      "name": "三亚",
+      "fullName": "三亚市",
+      "adcode": "460200",
+      "attractions": [
+        {
+          "id": "460200-nan-shan-da-xiao-dong-tian-tourist-area",
+          "name": "南山大小洞天旅游区",
+          "coordinates": [
+            109.15162,
+            18.30504
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "nan-shan-da-xiao-dong-tian-tourist-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/nan-shan-da-xiao-dong-tian-tourist-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "460200-nanshan-cultural-tourism-area",
+          "name": "南山文化旅游区",
+          "coordinates": [
+            109.206633,
+            18.300091
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "nanshan-cultural-tourism-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/nanshan-cultural-tourism-area/",
+          "guideUrl": "https://loreroutes.com/destinations/nanshan-sanya/"
+        },
+        {
+          "id": "460200-tianya-haijiao-scenic-area",
+          "name": "天涯海角游览区",
+          "coordinates": [
+            109.34545,
+            18.29298
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "tianya-haijiao-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/tianya-haijiao-scenic-area/",
+          "guideUrl": null
+        },
+        {
+          "id": "460200-wuzhizhou-island-tourist-area",
+          "name": "蜈支洲岛旅游区",
+          "coordinates": [
+            109.761849,
+            18.311352
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "openstreetmap",
+          "sourceSlug": "wuzhizhou-island-tourist-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/wuzhizhou-island-tourist-area/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "哈尔滨",
+      "fullName": "哈尔滨市",
+      "adcode": "230100",
+      "attractions": [
+        {
+          "id": "230100-tai-yang-island-scenic-area",
+          "name": "太阳岛景区",
+          "coordinates": [
+            126.59,
+            45.791
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "tai-yang-island-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/tai-yang-island-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/harbin-sun-island/"
+        }
+      ]
+    },
+    {
+      "name": "沈阳",
+      "fullName": "沈阳市",
+      "adcode": "210100",
+      "attractions": [
+        {
+          "id": "210100-shenyang-botanical-garden",
+          "name": "沈阳市植物园",
+          "coordinates": [
+            123.643889,
+            41.858611
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "shenyang-botanical-garden",
+          "profileUrl": "https://loreroutes.com/destinations/5a/shenyang-botanical-garden/",
+          "guideUrl": "https://loreroutes.com/destinations/shenyang-botanical-garden/"
+        }
+      ]
+    },
+    {
+      "name": "大连",
+      "fullName": "大连市",
+      "adcode": "210200",
+      "attractions": [
+        {
+          "id": "210200-da-lian-lao-hu-tan-hai-yang-gong-yuan-lao-hu-tan-ji-di-guan",
+          "name": "大连老虎滩海洋公园.老虎滩极地馆",
+          "coordinates": [
+            121.67313,
+            38.87301
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "da-lian-lao-hu-tan-hai-yang-gong-yuan-lao-hu-tan-ji-di-guan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/da-lian-lao-hu-tan-hai-yang-gong-yuan-lao-hu-tan-ji-di-guan/",
+          "guideUrl": "https://loreroutes.com/destinations/laohutan-ocean-park/"
+        },
+        {
+          "id": "210200-jin-shi-tan-scenic-area",
+          "name": "金石滩景区",
+          "coordinates": [
+            122.00167,
+            39.08117
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "jin-shi-tan-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/jin-shi-tan-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/jinshitan/"
+        }
+      ]
+    },
+    {
+      "name": "郑州",
+      "fullName": "郑州市",
+      "adcode": "410100",
+      "attractions": [
+        {
+          "id": "410100-mount-song",
+          "name": "嵩山少林景区",
+          "coordinates": [
+            112.960278,
+            34.484722
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "mount-song",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mount-song/",
+          "guideUrl": "https://loreroutes.com/destinations/mount-song/"
+        }
+      ]
+    },
+    {
+      "name": "洛阳",
+      "fullName": "洛阳市",
+      "adcode": "410300",
+      "attractions": [
+        {
+          "id": "410300-baiyun-mountain-henan",
+          "name": "白云山景区",
+          "coordinates": [
+            111.847342,
+            33.681397
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "baiyun-mountain-henan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/baiyun-mountain-henan/",
+          "guideUrl": "https://loreroutes.com/destinations/baiyun-mountain-henan/"
+        },
+        {
+          "id": "410300-longmen-grottoes",
+          "name": "龙门石窟景区",
+          "coordinates": [
+            112.471111,
+            34.554444
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "longmen-grottoes",
+          "profileUrl": "https://loreroutes.com/destinations/5a/longmen-grottoes/",
+          "guideUrl": "https://loreroutes.com/destinations/longmen-grottoes/"
+        },
+        {
+          "id": "410300-longtan-grand-canyon",
+          "name": "龙潭大峡谷景区",
+          "coordinates": [
+            112.004,
+            34.969
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "longtan-grand-canyon",
+          "profileUrl": "https://loreroutes.com/destinations/5a/longtan-grand-canyon/",
+          "guideUrl": "https://loreroutes.com/destinations/longtan-grand-canyon/"
+        },
+        {
+          "id": "410300-mount-laojun-henan",
+          "name": "老君山·鸡冠洞旅游区景区",
+          "coordinates": [
+            111.6437,
+            33.7205
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "mount-laojun-henan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/mount-laojun-henan/",
+          "guideUrl": "https://loreroutes.com/destinations/mount-laojun-henan/"
+        }
+      ]
+    },
+    {
+      "name": "济南",
+      "fullName": "济南市",
+      "adcode": "370100",
+      "attractions": [
+        {
+          "id": "370100-the-first-spring-under-heaven-scenic-area",
+          "name": "天下第一泉景区",
+          "coordinates": [
+            117.0103,
+            36.66088
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "the-first-spring-under-heaven-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/the-first-spring-under-heaven-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/jinan-springs/"
+        }
+      ]
+    },
+    {
+      "name": "福州",
+      "fullName": "福州市",
+      "adcode": "350100",
+      "attractions": [
+        {
+          "id": "350100-sanfang-qixiang-scenic-area",
+          "name": "三坊七巷景区",
+          "coordinates": [
+            119.29204,
+            26.08566
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "sanfang-qixiang-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/sanfang-qixiang-scenic-area/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "南昌",
+      "fullName": "南昌市",
+      "adcode": "360100",
+      "attractions": [
+        {
+          "id": "360100-pavilion-of-prince-teng",
+          "name": "滕王阁旅游区",
+          "coordinates": [
+            115.8758,
+            28.6841
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "pavilion-of-prince-teng",
+          "profileUrl": "https://loreroutes.com/destinations/5a/pavilion-of-prince-teng/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "合肥",
+      "fullName": "合肥市",
+      "adcode": "340100",
+      "attractions": [
+        {
+          "id": "340100-sanhe-ancient-town-scenic-area",
+          "name": "三河古镇景区",
+          "coordinates": [
+            117.2387,
+            31.51828
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "sanhe-ancient-town-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/sanhe-ancient-town-scenic-area/",
+          "guideUrl": null
+        }
+      ]
+    },
+    {
+      "name": "宁波",
+      "fullName": "宁波市",
+      "adcode": "330200",
+      "attractions": [
+        {
+          "id": "330200-tianyi-pavilion-and-moon-lake-scenic-area",
+          "name": "天一阁·月湖景区",
+          "coordinates": [
+            121.535833,
+            29.873611
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "tianyi-pavilion-and-moon-lake-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/tianyi-pavilion-and-moon-lake-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/tianyige-moon-lake/"
+        },
+        {
+          "id": "330200-xikou-tengtou-tourist-area",
+          "name": "溪口滕头旅游区",
+          "coordinates": [
+            121.28349,
+            29.68984
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "xikou-tengtou-tourist-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/xikou-tengtou-tourist-area/",
+          "guideUrl": "https://loreroutes.com/destinations/xikou-tengtou/"
+        }
+      ]
+    },
+    {
+      "name": "无锡",
+      "fullName": "无锡市",
+      "adcode": "320200",
+      "attractions": [
+        {
+          "id": "320200-china-central-television",
+          "name": "中央电视台无锡影视基地三国水浒景区",
+          "coordinates": [
+            120.2293,
+            31.4831
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "china-central-television",
+          "profileUrl": "https://loreroutes.com/destinations/5a/china-central-television/",
+          "guideUrl": "https://loreroutes.com/destinations/wuxi-film-studios/"
+        },
+        {
+          "id": "320200-grand-buddha-at-ling-shan",
+          "name": "灵山大佛景区",
+          "coordinates": [
+            120.091389,
+            31.431944
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "grand-buddha-at-ling-shan",
+          "profileUrl": "https://loreroutes.com/destinations/5a/grand-buddha-at-ling-shan/",
+          "guideUrl": "https://loreroutes.com/destinations/grand-buddha-lingshan/"
+        },
+        {
+          "id": "320200-huishan-ancient-town-scenic-area",
+          "name": "惠山古镇景区",
+          "coordinates": [
+            120.26799,
+            31.58302
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "huishan-ancient-town-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/huishan-ancient-town-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/huishan-ancient-town/"
+        },
+        {
+          "id": "320200-yuantouzhu-scenic-area",
+          "name": "鼋头渚景区",
+          "coordinates": [
+            120.228,
+            31.5178
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikidata",
+          "sourceSlug": "yuantouzhu-scenic-area",
+          "profileUrl": "https://loreroutes.com/destinations/5a/yuantouzhu-scenic-area/",
+          "guideUrl": "https://loreroutes.com/destinations/yuantouzhu/"
+        }
+      ]
+    },
+    {
+      "name": "丽江",
+      "fullName": "丽江市",
+      "adcode": "530700",
+      "attractions": [
+        {
+          "id": "530700-jade-dragon-snow-mountain",
+          "name": "玉龙雪山景区",
+          "coordinates": [
+            100.175,
+            27.098333
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "jade-dragon-snow-mountain",
+          "profileUrl": "https://loreroutes.com/destinations/5a/jade-dragon-snow-mountain/",
+          "guideUrl": null
+        },
+        {
+          "id": "530700-old-town-of-lijiang",
+          "name": "丽江古城景区",
+          "coordinates": [
+            100.226944,
+            26.879722
+          ],
+          "kind": "5A景区",
+          "coordinateSource": "wikipedia",
+          "sourceSlug": "old-town-of-lijiang",
+          "profileUrl": "https://loreroutes.com/destinations/5a/old-town-of-lijiang/",
+          "guideUrl": "https://loreroutes.com/destinations/lijiang-old-town/"
+        }
+      ]
+    }
+  ]
+}
